@@ -12,10 +12,10 @@
 Perkenalkan saya <b>Rizza Fauziah</b>. Saya lulusan tahun 2020 dari program studi S.Tr Teknik Telekomunikasi Politeknik Negeri Semarang
 
 
-Saya seorang **Junior SOA Developer**
-<p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+Saya seorang **Junior SOA Developer** <br>
+
+<p align="middle">
+<a href="https://github.com/rizzafauziah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizzafauziah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
